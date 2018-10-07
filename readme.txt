@@ -1,1 +1,1 @@
-test new branch with two file
+Creating a new branch is quick & simple.
