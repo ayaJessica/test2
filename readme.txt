@@ -4,3 +4,5 @@ hahahahahaha
 &
 git stash 7
 git stash 8
+git stash 5
+git stash 6
