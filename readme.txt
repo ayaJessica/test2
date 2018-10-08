@@ -1,2 +1,5 @@
 Creating a new branch is quick AND simple
-test conflict !!!
+test conflict on branch master !!!
+hahahahahaha
+and
+
