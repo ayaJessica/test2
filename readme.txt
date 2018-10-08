@@ -4,5 +4,6 @@ hahahahahaha
 &
 git stash 3
 git stash 4
+--no-ff merge
 git stash
 git stash 2
