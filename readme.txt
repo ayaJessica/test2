@@ -3,3 +3,4 @@ test conflict on branch feature1 !!!
 hahahahahaha
 &
 --no-ff merge
+git stash
